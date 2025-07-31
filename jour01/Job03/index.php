@@ -32,11 +32,11 @@
         <td>string</td>
         <td>$stringvar</td>
         <td>Lyon</td>
-</tr>
+        </tr>
         <td>int</td>
         <td>$intvar</td>
         <td>69</td>
-</tr>
+        </tr>
         <td>float</td>
         <td>$floatvar</td>
         <td>9.0</td>
